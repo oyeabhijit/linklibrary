@@ -36,7 +36,7 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.linkedin {
+.wazirx {
     background: #667db6;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(45deg, #667db6, #0082c8, #0082c8, #667db6);
@@ -45,12 +45,12 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.youtube {
-    background: #CB356B;
+.rarible {
+    background: #fbdb17;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(45deg, #BD3F32, #CB356B);
+    background: -webkit-linear-gradient(45deg, #d3c048, #fbdb17);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(45deg, #BD3F32, #CB356B);
+    background: linear-gradient(45deg, #d3c048, #fbdb17);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
