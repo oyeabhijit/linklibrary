@@ -46,6 +46,7 @@
 }
 
 .rarible {
+    color: #111;
     background: #fbdb17;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(45deg, #d3c048, #fbdb17);
@@ -62,7 +63,7 @@
 }
 
 .medium:hover{
-    color: #000;
+    color: #111;
 }
 
 .round {
