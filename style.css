@@ -18,6 +18,12 @@
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
 }
 
+.instagram:hover {
+    color: rgb(241, 241, 241);
+    transition-duration: 0.3s;
+    transition: ease-in-out;
+}
+
 .artstation {
     background: #2193b0;
     /* fallback for old browsers */
@@ -25,6 +31,12 @@
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(45deg, #6dd5ed, #2193b0);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.srtstation:hover {
+    color: rgb(241, 241, 241);
+    transition-duration: 0.3s;
+    transition: ease-in-out;
 }
 
 .behance {
@@ -36,6 +48,12 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+.behance:hover {
+    color: rgb(241, 241, 241);
+    transition-duration: 0.3s;
+    transition: ease-in-out;
+}
+
 .wazirx {
     background: #667db6;
     /* fallback for old browsers */
@@ -45,6 +63,11 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+.wazirx:hover {
+    color: rgb(241, 241, 241);
+    transition-duration: 0.3s;
+    transition: ease-in-out;
+}
 .rarible {
     color: #111;
     background: #fbdb17;
@@ -54,6 +77,7 @@
     background: linear-gradient(45deg, #d3c048, #fbdb17);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
 
 .rarible:hover {
     color: rgb(39, 39, 39);
@@ -92,7 +116,6 @@ iframe {
     display: block;
     border-radius: 10px;
 }
-
 
 /* SCROLLBAR */
 
